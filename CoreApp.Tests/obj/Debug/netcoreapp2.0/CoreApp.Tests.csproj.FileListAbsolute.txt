@@ -1,0 +1,15 @@
+D:\Learning\core\sampleCoreApp\CoreApp.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Learning\core\sampleCoreApp\CoreApp.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Learning\core\sampleCoreApp\CoreApp.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Learning\core\sampleCoreApp\CoreApp.Tests\bin\Debug\netcoreapp2.0\CoreApp.Tests.deps.json
+D:\Learning\core\sampleCoreApp\CoreApp.Tests\bin\Debug\netcoreapp2.0\CoreApp.Tests.runtimeconfig.json
+D:\Learning\core\sampleCoreApp\CoreApp.Tests\bin\Debug\netcoreapp2.0\CoreApp.Tests.runtimeconfig.dev.json
+D:\Learning\core\sampleCoreApp\CoreApp.Tests\bin\Debug\netcoreapp2.0\CoreApp.Tests.dll
+D:\Learning\core\sampleCoreApp\CoreApp.Tests\bin\Debug\netcoreapp2.0\CoreApp.Tests.pdb
+D:\Learning\core\sampleCoreApp\CoreApp.Tests\bin\Debug\netcoreapp2.0\CoreApp.Web.dll
+D:\Learning\core\sampleCoreApp\CoreApp.Tests\bin\Debug\netcoreapp2.0\CoreApp.Web.pdb
+D:\Learning\core\sampleCoreApp\CoreApp.Tests\obj\Debug\netcoreapp2.0\CoreApp.Tests.csproj.CoreCompileInputs.cache
+D:\Learning\core\sampleCoreApp\CoreApp.Tests\obj\Debug\netcoreapp2.0\CoreApp.Tests.AssemblyInfoInputs.cache
+D:\Learning\core\sampleCoreApp\CoreApp.Tests\obj\Debug\netcoreapp2.0\CoreApp.Tests.AssemblyInfo.cs
+D:\Learning\core\sampleCoreApp\CoreApp.Tests\obj\Debug\netcoreapp2.0\CoreApp.Tests.dll
+D:\Learning\core\sampleCoreApp\CoreApp.Tests\obj\Debug\netcoreapp2.0\CoreApp.Tests.pdb

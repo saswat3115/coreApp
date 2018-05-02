@@ -1,0 +1,10 @@
+D:\Learning\core\sampleCoreApp\CoreApp.Web\bin\Debug\netcoreapp2.0\CoreApp.Web.deps.json
+D:\Learning\core\sampleCoreApp\CoreApp.Web\bin\Debug\netcoreapp2.0\CoreApp.Web.runtimeconfig.json
+D:\Learning\core\sampleCoreApp\CoreApp.Web\bin\Debug\netcoreapp2.0\CoreApp.Web.runtimeconfig.dev.json
+D:\Learning\core\sampleCoreApp\CoreApp.Web\bin\Debug\netcoreapp2.0\CoreApp.Web.dll
+D:\Learning\core\sampleCoreApp\CoreApp.Web\bin\Debug\netcoreapp2.0\CoreApp.Web.pdb
+D:\Learning\core\sampleCoreApp\CoreApp.Web\obj\Debug\netcoreapp2.0\CoreApp.Web.csproj.CoreCompileInputs.cache
+D:\Learning\core\sampleCoreApp\CoreApp.Web\obj\Debug\netcoreapp2.0\CoreApp.Web.AssemblyInfoInputs.cache
+D:\Learning\core\sampleCoreApp\CoreApp.Web\obj\Debug\netcoreapp2.0\CoreApp.Web.AssemblyInfo.cs
+D:\Learning\core\sampleCoreApp\CoreApp.Web\obj\Debug\netcoreapp2.0\CoreApp.Web.dll
+D:\Learning\core\sampleCoreApp\CoreApp.Web\obj\Debug\netcoreapp2.0\CoreApp.Web.pdb
